@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1679560/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/impl
+END
+TestGenericKeyedObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1679448/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/impl/TestGenericKeyedObjectPool.java
+END
+TestLinkedBlockingDeque.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1643809/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/impl/TestLinkedBlockingDeque.java
+END
+TestEvictionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1548133/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/impl/TestEvictionConfig.java
+END
+TestBaseGenericObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1628064/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/impl/TestBaseGenericObjectPool.java
+END
+TestDefaultPooledObjectInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1548133/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/impl/TestDefaultPooledObjectInfo.java
+END
+TestSoftReferenceObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1538403/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/impl/TestSoftReferenceObjectPool.java
+END
+TestAbandonedObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1627961/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/impl/TestAbandonedObjectPool.java
+END
+TestPoolImplUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1537857/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/impl/TestPoolImplUtils.java
+END
+TestGenericObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1679560/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/impl/TestGenericObjectPool.java
+END
+TestGenericObjectPoolClassLoaders.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1627961/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/impl/TestGenericObjectPoolClassLoaders.java
+END
+TestPooledSoftReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1553070/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/impl/TestPooledSoftReference.java
+END
+TestDefaultPooledObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1647206/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/impl/TestDefaultPooledObject.java
+END
+TestSoftRefOutOfMemory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1627961/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/impl/TestSoftRefOutOfMemory.java
+END

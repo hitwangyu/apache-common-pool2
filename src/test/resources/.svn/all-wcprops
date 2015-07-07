@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1326030/commons/proper/pool/trunk/src/test/resources
+END
+test1
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1326030/commons/proper/pool/trunk/src/test/resources/test1
+END
+test2
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1326030/commons/proper/pool/trunk/src/test/resources/test2
+END

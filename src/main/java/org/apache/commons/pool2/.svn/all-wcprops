@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1680284/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2
+END
+ObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1566605/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/ObjectPool.java
+END
+PooledObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1566584/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/PooledObjectFactory.java
+END
+PooledObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1585213/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/PooledObject.java
+END
+PooledObjectState.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1506488/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/PooledObjectState.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1533305/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/package.html
+END
+BaseKeyedPooledObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1612043/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/BaseKeyedPooledObjectFactory.java
+END
+KeyedObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1566605/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/KeyedObjectPool.java
+END
+KeyedPooledObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1566584/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/KeyedPooledObjectFactory.java
+END
+SwallowedExceptionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1532278/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/SwallowedExceptionListener.java
+END
+UsageTracking.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1532278/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/UsageTracking.java
+END
+overview.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1553222/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/overview.html
+END
+TrackedUse.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1537301/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/TrackedUse.java
+END
+PoolUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1566584/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/PoolUtils.java
+END
+BaseObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1566605/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/BaseObjectPool.java
+END
+BasePooledObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1566584/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/BasePooledObjectFactory.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1679560/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2
+END
+TestObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1566584/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/TestObjectPool.java
+END
+VisitTrackerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1532111/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/VisitTrackerFactory.java
+END
+TestKeyedObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1566584/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/TestKeyedObjectPool.java
+END
+WaiterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1663451/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/WaiterFactory.java
+END
+TestBasePoolableObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1537253/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/TestBasePoolableObjectFactory.java
+END
+PrivateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1326006/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/PrivateException.java
+END
+TestBaseKeyedPoolableObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1537253/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/TestBaseKeyedPoolableObjectFactory.java
+END
+MethodCallPoolableObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1537339/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/MethodCallPoolableObjectFactory.java
+END
+TestPoolUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1552593/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/TestPoolUtils.java
+END
+VisitTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1532111/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/VisitTracker.java
+END
+TestBaseObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1566584/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/TestBaseObjectPool.java
+END
+Waiter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1679448/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/Waiter.java
+END
+MethodCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1622043/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/MethodCall.java
+END

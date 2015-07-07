@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1680284/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl
+END
+EvictionPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1629510/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/EvictionPolicy.java
+END
+AbandonedConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1622043/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/AbandonedConfig.java
+END
+LinkedBlockingDeque.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1647442/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/LinkedBlockingDeque.java
+END
+DefaultEvictionPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1506488/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/DefaultEvictionPolicy.java
+END
+GenericKeyedObjectPoolConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1680284/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/GenericKeyedObjectPoolConfig.java
+END
+EvictionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1533030/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/EvictionConfig.java
+END
+GenericKeyedObjectPoolMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1598794/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/GenericKeyedObjectPoolMXBean.java
+END
+SoftReferenceObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1622090/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/SoftReferenceObjectPool.java
+END
+PoolImplUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1537459/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/PoolImplUtils.java
+END
+DefaultPooledObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1647216/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/DefaultPooledObject.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1326006/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/package.html
+END
+GenericKeyedObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1679561/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/GenericKeyedObjectPool.java
+END
+EvictionTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1627004/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/EvictionTimer.java
+END
+BaseObjectPoolConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1629510/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/BaseObjectPoolConfig.java
+END
+GenericObjectPoolConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1537301/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/GenericObjectPoolConfig.java
+END
+InterruptibleReentrantLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1629509/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/InterruptibleReentrantLock.java
+END
+GenericObjectPoolMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1629509/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/GenericObjectPoolMXBean.java
+END
+BaseGenericObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1680279/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/BaseGenericObjectPool.java
+END
+DefaultPooledObjectInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1550101/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/DefaultPooledObjectInfo.java
+END
+PooledSoftReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1537301/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/PooledSoftReference.java
+END
+DefaultPooledObjectInfoMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1570581/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/DefaultPooledObjectInfoMBean.java
+END
+GenericObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1679560/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/impl/GenericObjectPool.java
+END

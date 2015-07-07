@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1629504/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/proxy
+END
+CglibProxyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1537455/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/proxy/CglibProxyHandler.java
+END
+ProxySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1534324/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/proxy/ProxySource.java
+END
+CglibProxySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1534324/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/proxy/CglibProxySource.java
+END
+JdkProxyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1534324/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/proxy/JdkProxyHandler.java
+END
+BaseProxyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1629504/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/proxy/BaseProxyHandler.java
+END
+JdkProxySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1537523/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/proxy/JdkProxySource.java
+END
+ProxiedObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1534324/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/proxy/ProxiedObjectPool.java
+END
+ProxiedKeyedObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1534324/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/proxy/ProxiedKeyedObjectPool.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1534324/commons/proper/pool/trunk/src/main/java/org/apache/commons/pool2/proxy/package.html
+END

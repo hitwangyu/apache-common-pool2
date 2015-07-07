@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1537438/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/proxy
+END
+TestProxiedObjectPoolWithJdkProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1531859/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/proxy/TestProxiedObjectPoolWithJdkProxy.java
+END
+TestProxiedKeyedObjectPoolWithJdkProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1537438/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/proxy/TestProxiedKeyedObjectPoolWithJdkProxy.java
+END
+BaseTestProxiedObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1537434/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/proxy/BaseTestProxiedObjectPool.java
+END
+BaseTestProxiedKeyedObjectPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1537438/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/proxy/BaseTestProxiedKeyedObjectPool.java
+END
+TestProxiedObjectPoolWithCglibProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1531859/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/proxy/TestProxiedObjectPoolWithCglibProxy.java
+END
+TestProxiedKeyedObjectPoolWithCglibProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1537438/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/proxy/TestProxiedKeyedObjectPoolWithCglibProxy.java
+END

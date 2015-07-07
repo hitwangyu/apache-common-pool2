@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1622043/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/performance
+END
+PerformanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1622043/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/performance/PerformanceTest.java
+END
+SleepingObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1531891/commons/proper/pool/trunk/src/test/java/org/apache/commons/pool2/performance/SleepingObjectFactory.java
+END

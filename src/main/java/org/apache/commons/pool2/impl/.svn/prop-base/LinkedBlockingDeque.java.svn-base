@@ -1,0 +1,16 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 1106
+/harmony/enhanced/classlib/trunk/modules/concurrent/src/main/java/java/util/concurrent/LinkedBlockingDeque.java:713674-735919,765923-926091,926318-926838
+/harmony/enhanced/classlib/trunk/working_classlib/modules/concurrent/src/main/java/java/util/concurrent/LinkedBlockingDeque.java:884014-884286
+/harmony/enhanced/java/branches/mrh/classlib/modules/concurrent/src/main/java/java/util/concurrent/LinkedBlockingDeque.java:935751-941490
+/harmony/enhanced/java/trunk/classlib/modules/concurrent/src/main/java/java/util/concurrent/LinkedBlockingDeque.java:929253-1049534
+/harmony/enhanced/trunk/classlib/modules/concurrent/src/main/java/java/util/concurrent/LinkedBlockingDeque.java:476395-929252
+/harmony/enhanced/trunk/working_classlib/modules/concurrent/src/main/java/java/util/concurrent/LinkedBlockingDeque.java:476396-920147
+/incubator/harmony/enhanced/trunk/classlib/modules/concurrent/src/main/java/java/util/concurrent/LinkedBlockingDeque.java:292550-476394
+/incubator/harmony/enhanced/trunk/working_classlib/modules/concurrent/src/main/java/java/util/concurrent/LinkedBlockingDeque.java:423974-476394
+END
