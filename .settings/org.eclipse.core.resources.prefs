@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java=iso-8859-1
+encoding//src/main/java/org/apache/commons/pool2=UTF-8
+encoding//src/main/java/org/apache/commons/pool2/ObjectPool.java=UTF-8
+encoding//src/main/java/org/apache/commons/pool2/PooledObject.java=UTF-8
+encoding//src/main/java/org/apache/commons/pool2/PooledObjectFactory.java=UTF-8
+encoding//src/main/java/org/apache/commons/pool2/impl=UTF-8
+encoding//src/main/java/org/apache/commons/pool2/proxy=UTF-8
+encoding//src/test/java=iso-8859-1
+encoding//src/test/resources=UTF-8
+encoding/<project>=UTF-8
